@@ -11,6 +11,7 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
+
 /*
  * 1.git init 2. 3.git status git add src pom.xml git status
  */
@@ -18,4 +19,4 @@ public class App
 //2
 //3.staging the changed that has to be added to git  local repository
 //4.committing
-// create a branch command git checkout -n abhi (name)
+// create a branch command git checkout -b abhi (name)
