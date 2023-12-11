@@ -10,6 +10,7 @@ public class App
     {System.out.println( "Hello World!" );
     }
 }
+//hello
 
 /*
  * 1.git init 2. 3.git status git add src pom.xml git status
