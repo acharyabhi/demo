@@ -13,11 +13,7 @@ public class App
     	System.out.println("bye");
     }
 }
-//git project
-//change the code 
 
-//change made by abhi
-//git project
 
  
 
